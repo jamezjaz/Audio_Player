@@ -47,5 +47,6 @@ public class AudioPlayer {
                     System.out.println("That's an invalid input!");
             }
         }
+        System.out.println("Good Bye!");
     }
 }
